@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Zegen	</title>
-	<atom:link href="https://elementor.zozothemes.com/zegen/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/gkipalsigunung/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<description>Church WordPress Theme</description>
 	<lastBuildDate>Sat, 09 Oct 2021 10:38:27 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Hoodies &#8211; Zegen</title>
-	<atom:link href="https://elementor.zozothemes.com/zegen/product-category/hoodies/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/gkipalsigunung/product-category/hoodies/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<description>Church WordPress Theme</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:53 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
+	<url>/gkipalsigunung/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
 	<title>Hoodies &#8211; Zegen</title>
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<width>32</width>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Hoodie with Zipper</title>
-		<link>https://elementor.zozothemes.com/zegen/product/hoodie-with-zipper/</link>
-					<comments>https://elementor.zozothemes.com/zegen/product/hoodie-with-zipper/#respond</comments>
+		<link>/gkipalsigunung/product/hoodie-with-zipper/</link>
+					<comments>/gkipalsigunung/product/hoodie-with-zipper/#respond</comments>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
@@ -40,15 +40,15 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elementor.zozothemes.com/zegen/product/hoodie-with-zipper/feed/</wfw:commentRss>
+					<wfw:commentRss>/gkipalsigunung/product/hoodie-with-zipper/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hoodie</title>
-		<link>https://elementor.zozothemes.com/zegen/product/hoodie/</link>
-					<comments>https://elementor.zozothemes.com/zegen/product/hoodie/#respond</comments>
+		<link>/gkipalsigunung/product/hoodie/</link>
+					<comments>/gkipalsigunung/product/hoodie/#respond</comments>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
@@ -58,15 +58,15 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elementor.zozothemes.com/zegen/product/hoodie/feed/</wfw:commentRss>
+					<wfw:commentRss>/gkipalsigunung/product/hoodie/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hoodie with Logo</title>
-		<link>https://elementor.zozothemes.com/zegen/product/hoodie-with-logo/</link>
-					<comments>https://elementor.zozothemes.com/zegen/product/hoodie-with-logo/#respond</comments>
+		<link>/gkipalsigunung/product/hoodie-with-logo/</link>
+					<comments>/gkipalsigunung/product/hoodie-with-logo/#respond</comments>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
@@ -76,7 +76,7 @@
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elementor.zozothemes.com/zegen/product/hoodie-with-logo/feed/</wfw:commentRss>
+					<wfw:commentRss>/gkipalsigunung/product/hoodie-with-logo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

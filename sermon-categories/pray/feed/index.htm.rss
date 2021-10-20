@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Pray &#8211; Zegen</title>
-	<atom:link href="https://elementor.zozothemes.com/zegen/sermon-categories/pray/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/gkipalsigunung/sermon-categories/pray/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<description>Church WordPress Theme</description>
 	<lastBuildDate>Sat, 09 Oct 2021 10:38:27 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
+	<url>/gkipalsigunung/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
 	<title>Pray &#8211; Zegen</title>
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<width>32</width>

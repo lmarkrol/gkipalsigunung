@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Album	</title>
-	<atom:link href="https://elementor.zozothemes.com/zegen/product/album/feed/" rel="self" type="application/rss+xml" />
-	<link>https://elementor.zozothemes.com/zegen/product/album/</link>
+	<atom:link href="/gkipalsigunung/product/album/feed/" rel="self" type="application/rss+xml" />
+	<link>/gkipalsigunung/product/album/</link>
 	<description>Church WordPress Theme</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

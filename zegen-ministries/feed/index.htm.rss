@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Ministries &#8211; Zegen</title>
-	<atom:link href="https://elementor.zozothemes.com/zegen/zegen-ministries/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/gkipalsigunung/zegen-ministries/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<description>Church WordPress Theme</description>
 	<lastBuildDate>Wed, 20 Nov 2019 12:19:05 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
+	<url>/gkipalsigunung/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
 	<title>Ministries &#8211; Zegen</title>
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<width>32</width>
@@ -29,11 +29,11 @@
 </image> 
 	<item>
 		<title>Children’s Ministry</title>
-		<link>https://elementor.zozothemes.com/zegen/zegen-ministries/childrens-ministry/</link>
+		<link>/gkipalsigunung/zegen-ministries/childrens-ministry/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 06:54:23 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/zegen-ministries/childrens-ministry-copy-6/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/zegen-ministries/childrens-ministry-copy-6/</guid>
 
 					<description><![CDATA[Lorem Ipsum este pur şi simplu o machetă pentru text a industriei tipografice. Lorem Ipsum a fost macheta standard a industriei încă din secolul al XVI-lea, când un tipograf anonim a luat o planşetă de litere şi le-a amestecat pentru a crea o carte demonstrativă pentru literele respective. Nu doar că a supravieţuit timp de]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5396" class="elementor elementor-5396" data-elementor-settings="[]">
@@ -67,9 +67,9 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="819be0d" data-elementor-lightbox-title="zegen_portfolio_10" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="819be0d" data-elementor-lightbox-title="zegen_portfolio_7" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="819be0d" data-elementor-lightbox-title="zegen_portfolio_2" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="819be0d" data-elementor-lightbox-title="zegen_portfolio_10" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="819be0d" data-elementor-lightbox-title="zegen_portfolio_7" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="819be0d" data-elementor-lightbox-title="zegen_portfolio_2" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -95,11 +95,11 @@
 			</item>
 		<item>
 		<title>Womens Ministry</title>
-		<link>https://elementor.zozothemes.com/zegen/zegen-ministries/womens-ministry/</link>
+		<link>/gkipalsigunung/zegen-ministries/womens-ministry/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 06:54:22 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/zegen-ministries/childrens-ministry-copy-5/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/zegen-ministries/childrens-ministry-copy-5/</guid>
 
 					<description><![CDATA[Lorem Ipsum este pur şi simplu o machetă pentru text a industriei tipografice. Lorem Ipsum a fost macheta standard a industriei încă din secolul al XVI-lea, când un tipograf anonim a luat o planşetă de litere şi le-a amestecat pentru a crea o carte demonstrativă pentru literele respective. Nu doar că a supravieţuit timp de]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5395" class="elementor elementor-5395" data-elementor-settings="[]">
@@ -133,9 +133,9 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9e1877c" data-elementor-lightbox-title="zegen_portfolio_10" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9e1877c" data-elementor-lightbox-title="zegen_portfolio_7" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9e1877c" data-elementor-lightbox-title="zegen_portfolio_2" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9e1877c" data-elementor-lightbox-title="zegen_portfolio_10" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9e1877c" data-elementor-lightbox-title="zegen_portfolio_7" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9e1877c" data-elementor-lightbox-title="zegen_portfolio_2" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -161,11 +161,11 @@
 			</item>
 		<item>
 		<title>Global Ministry</title>
-		<link>https://elementor.zozothemes.com/zegen/zegen-ministries/global-ministry/</link>
+		<link>/gkipalsigunung/zegen-ministries/global-ministry/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 06:54:22 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/zegen-ministries/childrens-ministry-copy-4/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/zegen-ministries/childrens-ministry-copy-4/</guid>
 
 					<description><![CDATA[Lorem Ipsum este pur şi simplu o machetă pentru text a industriei tipografice. Lorem Ipsum a fost macheta standard a industriei încă din secolul al XVI-lea, când un tipograf anonim a luat o planşetă de litere şi le-a amestecat pentru a crea o carte demonstrativă pentru literele respective. Nu doar că a supravieţuit timp de]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5394" class="elementor elementor-5394" data-elementor-settings="[]">
@@ -199,9 +199,9 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="046ba73" data-elementor-lightbox-title="zegen_portfolio_10" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="046ba73" data-elementor-lightbox-title="zegen_portfolio_7" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="046ba73" data-elementor-lightbox-title="zegen_portfolio_2" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="046ba73" data-elementor-lightbox-title="zegen_portfolio_10" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="046ba73" data-elementor-lightbox-title="zegen_portfolio_7" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="046ba73" data-elementor-lightbox-title="zegen_portfolio_2" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -227,11 +227,11 @@
 			</item>
 		<item>
 		<title>Music Ministry</title>
-		<link>https://elementor.zozothemes.com/zegen/zegen-ministries/music-ministry/</link>
+		<link>/gkipalsigunung/zegen-ministries/music-ministry/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 06:54:21 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/zegen-ministries/childrens-ministry-copy-3/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/zegen-ministries/childrens-ministry-copy-3/</guid>
 
 					<description><![CDATA[Lorem Ipsum este pur şi simplu o machetă pentru text a industriei tipografice. Lorem Ipsum a fost macheta standard a industriei încă din secolul al XVI-lea, când un tipograf anonim a luat o planşetă de litere şi le-a amestecat pentru a crea o carte demonstrativă pentru literele respective. Nu doar că a supravieţuit timp de]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5393" class="elementor elementor-5393" data-elementor-settings="[]">
@@ -265,9 +265,9 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d7ff0f" data-elementor-lightbox-title="zegen_portfolio_10" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d7ff0f" data-elementor-lightbox-title="zegen_portfolio_7" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d7ff0f" data-elementor-lightbox-title="zegen_portfolio_2" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d7ff0f" data-elementor-lightbox-title="zegen_portfolio_10" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d7ff0f" data-elementor-lightbox-title="zegen_portfolio_7" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8d7ff0f" data-elementor-lightbox-title="zegen_portfolio_2" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -293,11 +293,11 @@
 			</item>
 		<item>
 		<title>Family Ministry</title>
-		<link>https://elementor.zozothemes.com/zegen/zegen-ministries/family-ministry/</link>
+		<link>/gkipalsigunung/zegen-ministries/family-ministry/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 06:54:19 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/zegen-ministries/childrens-ministry-copy-2/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/zegen-ministries/childrens-ministry-copy-2/</guid>
 
 					<description><![CDATA[Lorem Ipsum este pur şi simplu o machetă pentru text a industriei tipografice. Lorem Ipsum a fost macheta standard a industriei încă din secolul al XVI-lea, când un tipograf anonim a luat o planşetă de litere şi le-a amestecat pentru a crea o carte demonstrativă pentru literele respective. Nu doar că a supravieţuit timp de]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5392" class="elementor elementor-5392" data-elementor-settings="[]">
@@ -331,9 +331,9 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="53a7338" data-elementor-lightbox-title="zegen_portfolio_10" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="53a7338" data-elementor-lightbox-title="zegen_portfolio_7" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="53a7338" data-elementor-lightbox-title="zegen_portfolio_2" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="53a7338" data-elementor-lightbox-title="zegen_portfolio_10" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="53a7338" data-elementor-lightbox-title="zegen_portfolio_7" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="53a7338" data-elementor-lightbox-title="zegen_portfolio_2" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -359,11 +359,11 @@
 			</item>
 		<item>
 		<title>Prison Ministry</title>
-		<link>https://elementor.zozothemes.com/zegen/zegen-ministries/prison-ministry/</link>
+		<link>/gkipalsigunung/zegen-ministries/prison-ministry/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 06:54:06 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/zegen-ministries/childrens-ministry-copy/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/zegen-ministries/childrens-ministry-copy/</guid>
 
 					<description><![CDATA[Lorem Ipsum este pur şi simplu o machetă pentru text a industriei tipografice. Lorem Ipsum a fost macheta standard a industriei încă din secolul al XVI-lea, când un tipograf anonim a luat o planşetă de litere şi le-a amestecat pentru a crea o carte demonstrativă pentru literele respective. Nu doar că a supravieţuit timp de]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5391" class="elementor elementor-5391" data-elementor-settings="[]">
@@ -397,9 +397,9 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="b518ae2" data-elementor-lightbox-title="zegen_portfolio_10" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="b518ae2" data-elementor-lightbox-title="zegen_portfolio_7" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="b518ae2" data-elementor-lightbox-title="zegen_portfolio_2" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="b518ae2" data-elementor-lightbox-title="zegen_portfolio_10" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_10-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="b518ae2" data-elementor-lightbox-title="zegen_portfolio_7" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_7-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="b518ae2" data-elementor-lightbox-title="zegen_portfolio_2" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg'><img width="768" height="512" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg" class="attachment-medium_large size-medium_large" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-768x512.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1-600x400.jpg 600w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/zegen_portfolio_2-1.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>

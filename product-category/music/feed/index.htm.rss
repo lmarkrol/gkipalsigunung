@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Music &#8211; Zegen</title>
-	<atom:link href="https://elementor.zozothemes.com/zegen/product-category/music/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/gkipalsigunung/product-category/music/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<description>Church WordPress Theme</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:54 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
+	<url>/gkipalsigunung/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
 	<title>Music &#8211; Zegen</title>
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<width>32</width>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Album</title>
-		<link>https://elementor.zozothemes.com/zegen/product/album/</link>
-					<comments>https://elementor.zozothemes.com/zegen/product/album/#respond</comments>
+		<link>/gkipalsigunung/product/album/</link>
+					<comments>/gkipalsigunung/product/album/#respond</comments>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
@@ -40,15 +40,15 @@
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elementor.zozothemes.com/zegen/product/album/feed/</wfw:commentRss>
+					<wfw:commentRss>/gkipalsigunung/product/album/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Single</title>
-		<link>https://elementor.zozothemes.com/zegen/product/single/</link>
-					<comments>https://elementor.zozothemes.com/zegen/product/single/#respond</comments>
+		<link>/gkipalsigunung/product/single/</link>
+					<comments>/gkipalsigunung/product/single/#respond</comments>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
@@ -58,7 +58,7 @@
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://elementor.zozothemes.com/zegen/product/single/feed/</wfw:commentRss>
+					<wfw:commentRss>/gkipalsigunung/product/single/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

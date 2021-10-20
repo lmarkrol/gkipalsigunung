@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Sermon &#8211; Zegen</title>
-	<atom:link href="https://elementor.zozothemes.com/zegen/sermon/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/gkipalsigunung/sermon/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<description>Church WordPress Theme</description>
 	<lastBuildDate>Thu, 08 Oct 2020 08:35:39 +0000</lastBuildDate>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
+	<url>/gkipalsigunung/wp-content/uploads/sites/2/2019/11/cropped-fav-icon-32x32.jpg</url>
 	<title>Sermon &#8211; Zegen</title>
 	<link>https://elementor.zozothemes.com/zegen</link>
 	<width>32</width>
@@ -29,11 +29,11 @@
 </image> 
 	<item>
 		<title>Spiritually Reborn As God’s Children</title>
-		<link>https://elementor.zozothemes.com/zegen/sermon/spiritually-reborn-as-gods-children/</link>
+		<link>/gkipalsigunung/sermon/spiritually-reborn-as-gods-children/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Tue, 19 Nov 2019 09:52:08 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/sermon/spiritually-reborn-as-gods-children-copy-5/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/sermon/spiritually-reborn-as-gods-children-copy-5/</guid>
 
 					<description><![CDATA[Mauris id enim id purus ornare tincidunt. Aenean vel consequat risus. Proin viverra nisi at nisl imperdiet auctor. Donec ornare, est sed tincidunt placerat, sem mi suscipit mi, at varius enim sem at sem. Fusce tempus ex nibh, eget vulputate ligula ornare eget. Nunc facilisis erat at ligula blandit tempor. Pellentesque elit arcu, finibus ut]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6455" class="elementor elementor-6455" data-elementor-settings="[]">
@@ -67,8 +67,8 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -105,11 +105,11 @@ We have a strong sense of community with parishioners. People and children of al
 			</item>
 		<item>
 		<title>Preaching Worship An Online Family</title>
-		<link>https://elementor.zozothemes.com/zegen/sermon/preaching-worship-an-online-family/</link>
+		<link>/gkipalsigunung/sermon/preaching-worship-an-online-family/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Tue, 19 Nov 2019 09:51:36 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/sermon/spiritually-reborn-as-gods-children-copy-4/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/sermon/spiritually-reborn-as-gods-children-copy-4/</guid>
 
 					<description><![CDATA[Mauris id enim id purus ornare tincidunt. Aenean vel consequat risus. Proin viverra nisi at nisl imperdiet auctor. Donec ornare, est sed tincidunt placerat, sem mi suscipit mi, at varius enim sem at sem. Fusce tempus ex nibh, eget vulputate ligula ornare eget. Nunc facilisis erat at ligula blandit tempor. Pellentesque elit arcu, finibus ut]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6454" class="elementor elementor-6454" data-elementor-settings="[]">
@@ -143,8 +143,8 @@ We have a strong sense of community with parishioners. People and children of al
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -181,11 +181,11 @@ We have a strong sense of community with parishioners. People and children of al
 			</item>
 		<item>
 		<title>Sunday Sermon from the Church</title>
-		<link>https://elementor.zozothemes.com/zegen/sermon/sunday-sermon-from-the-church/</link>
+		<link>/gkipalsigunung/sermon/sunday-sermon-from-the-church/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Tue, 19 Nov 2019 09:51:36 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/sermon/spiritually-reborn-as-gods-children-copy-3/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/sermon/spiritually-reborn-as-gods-children-copy-3/</guid>
 
 					<description><![CDATA[Mauris id enim id purus ornare tincidunt. Aenean vel consequat risus. Proin viverra nisi at nisl imperdiet auctor. Donec ornare, est sed tincidunt placerat, sem mi suscipit mi, at varius enim sem at sem. Fusce tempus ex nibh, eget vulputate ligula ornare eget. Nunc facilisis erat at ligula blandit tempor. Pellentesque elit arcu, finibus ut]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6453" class="elementor elementor-6453" data-elementor-settings="[]">
@@ -219,8 +219,8 @@ We have a strong sense of community with parishioners. People and children of al
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -257,11 +257,11 @@ We have a strong sense of community with parishioners. People and children of al
 			</item>
 		<item>
 		<title>Creation Life in the Garden Children</title>
-		<link>https://elementor.zozothemes.com/zegen/sermon/creation-life-in-the-garden-children/</link>
+		<link>/gkipalsigunung/sermon/creation-life-in-the-garden-children/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Tue, 19 Nov 2019 09:51:35 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/sermon/spiritually-reborn-as-gods-children-copy-2/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/sermon/spiritually-reborn-as-gods-children-copy-2/</guid>
 
 					<description><![CDATA[Mauris id enim id purus ornare tincidunt. Aenean vel consequat risus. Proin viverra nisi at nisl imperdiet auctor. Donec ornare, est sed tincidunt placerat, sem mi suscipit mi, at varius enim sem at sem. Fusce tempus ex nibh, eget vulputate ligula ornare eget. Nunc facilisis erat at ligula blandit tempor. Pellentesque elit arcu, finibus ut]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6452" class="elementor elementor-6452" data-elementor-settings="[]">
@@ -295,8 +295,8 @@ We have a strong sense of community with parishioners. People and children of al
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -333,11 +333,11 @@ We have a strong sense of community with parishioners. People and children of al
 			</item>
 		<item>
 		<title>Christmas Doing God’s Will Better Future</title>
-		<link>https://elementor.zozothemes.com/zegen/sermon/christmas-doing-gods-will-better-future/</link>
+		<link>/gkipalsigunung/sermon/christmas-doing-gods-will-better-future/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Tue, 19 Nov 2019 09:51:35 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/sermon/spiritually-reborn-as-gods-children-copy/</guid>
+				<guid isPermaLink="false">/gkipalsigunung/sermon/spiritually-reborn-as-gods-children-copy/</guid>
 
 					<description><![CDATA[Mauris id enim id purus ornare tincidunt. Aenean vel consequat risus. Proin viverra nisi at nisl imperdiet auctor. Donec ornare, est sed tincidunt placerat, sem mi suscipit mi, at varius enim sem at sem. Fusce tempus ex nibh, eget vulputate ligula ornare eget. Nunc facilisis erat at ligula blandit tempor. Pellentesque elit arcu, finibus ut]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6451" class="elementor elementor-6451" data-elementor-settings="[]">
@@ -371,8 +371,8 @@ We have a strong sense of community with parishioners. People and children of al
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
@@ -409,11 +409,11 @@ We have a strong sense of community with parishioners. People and children of al
 			</item>
 		<item>
 		<title>Global Warning and the End of the Age</title>
-		<link>https://elementor.zozothemes.com/zegen/sermon/global-warning-and-the-end-of-the-age/</link>
+		<link>/gkipalsigunung/sermon/global-warning-and-the-end-of-the-age/</link>
 		
 		<dc:creator><![CDATA[zozo_user]]></dc:creator>
 		<pubDate>Tue, 22 Oct 2019 12:47:37 +0000</pubDate>
-				<guid isPermaLink="false">https://elementor.zozothemes.com/zegen/?post_type=zegen-sermon&#038;p=5527</guid>
+				<guid isPermaLink="false">/gkipalsigunung/?post_type=zegen-sermon&#038;p=5527</guid>
 
 					<description><![CDATA[Mauris id enim id purus ornare tincidunt. Aenean vel consequat risus. Proin viverra nisi at nisl imperdiet auctor. Donec ornare, est sed tincidunt placerat, sem mi suscipit mi, at varius enim sem at sem. Fusce tempus ex nibh, eget vulputate ligula ornare eget. Nunc facilisis erat at ligula blandit tempor. Pellentesque elit arcu, finibus ut]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5527" class="elementor elementor-5527" data-elementor-settings="[]">
@@ -447,8 +447,8 @@ We have a strong sense of community with parishioners. People and children of al
 				<div class="elementor-widget-container">
 					<div class="elementor-image-gallery">
 			
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
-<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, https://elementor.zozothemes.com/zegen/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs6" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/11/events_imgs6-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="764274c" data-elementor-lightbox-title="events_imgs1" href='/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1.jpg'><img width="768" height="456" src="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg" class="attachment-medium size-medium" alt="" srcset="/gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-768x456.jpg 768w, /gkipalsigunung/wp-content/uploads/sites/2/2019/10/events_imgs1-1-1170x694.jpg 1170w" sizes="(max-width: 768px) 100vw, 768px" /></a>
 		</div>
 				</div>
 				</div>
