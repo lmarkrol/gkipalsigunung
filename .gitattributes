@@ -2,3 +2,7 @@
 * text=auto
 # to change language of repo from HTML to Javascript
 *.html linguist-language=Javascript
+# to change language of repo from HTML to Javascript
+*.htmll linguist-language=Javascript
+# to change language of repo from HTML to Javascript
+*.htm linguist-language=Javascript
